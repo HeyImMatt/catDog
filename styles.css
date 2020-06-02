@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(177, 233, 230);
+  color: #403b3b;
+  font-family: helvetica, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3em;
+}
+
+p {
+  color: #007C89;
+  font-size: 20px;
+}
+
+p:hover {
+  color: blue;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  border-radius: 15px;
+}
+
+.headerContainer {
+  margin-bottom: 5em;
+}
